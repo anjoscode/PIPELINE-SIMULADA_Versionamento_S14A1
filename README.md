@@ -1,5 +1,5 @@
-Versionamento de Código e Sistemas de Mensageria - S14A1
-Título da atividade: Lendo logs de uma pipeline de CI/CD.
+Versionamento de Código e Sistemas de Mensageria - S14A1 - Título da atividade: Lendo logs de uma pipeline de CI/CD.
+
 
 Perguntas
 1. Quais etapas da pipeline foram executadas? Liste na ordem em que apareceram.
